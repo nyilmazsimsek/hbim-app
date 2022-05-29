@@ -9,7 +9,7 @@ const Model = () => {
         Model Page
       </h1>
 
-      <div className="online_3d_viewer" style={{width:800, height:600}} model="models/room.obj"></div>
+      <div className="online_3d_viewer" model="models/hundred_cubes.obj"></div>
 
     </div>
   );
